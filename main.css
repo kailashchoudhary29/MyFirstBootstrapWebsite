@@ -1,0 +1,34 @@
+body {
+  font-family: "Sniglet", cursive;
+}
+
+.max-viewport {
+  min-height: 100vh;
+}
+
+#banner,
+#contact,
+#social {
+  background: linear-gradient(rgba(53, 45, 42, 0.4), rgba(49, 40, 37, 0.6)),
+    url(img/car.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Bangers", cursive;
+}
+.transparent {
+  background-color: rgba(102, 43, 0, 0.7);
+}
+
+#one {
+  font-family: "Satisfy", cursive;
+  font-family: "Bangers", cursive;
+  font-family: "Bevan", cursive;
+}
+#onea {
+  font-family: "Satisfy", cursive;
+  font-family: "Bangers", cursive;
+  font-family: "Bevan", cursive;
+  font-size: 30px;
+}
